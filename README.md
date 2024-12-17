@@ -3,15 +3,17 @@
 ## Description:
 The web application Management, built using ASP.NET framework.  It is suitable for television production companies, allowing them to handle actor, TV series, and episode information, with distinct user roles such as Executive, Coordinator, Clerk, and Admin, and features for adding, viewing, and editing data related to actors, shows, and episodes. This project is ideal for learning web development, working with relational data models, and implementing CRUD operations with .NET technologies.
 
-## Requirements
-Prerequisites
+
+## Requirements 
 ### Software Requirements:
--.NET Framework: Version 4.8 or higher
--Visual Studio: 2022 or later with the following workloads:
--ASP.NET and web development
--.NET Framework development
--SQL Server: 2019 or later (LocalDB or full installation)
--Web Browser: Google Chrome, Edge, or any modern browser
+- .NET Framework: Version 4.8 or higher
+- Visual Studio: 2022 or later with the following workloads:
+ - ASP.NET and web development
+ - NET Framework development
+- SQL Server: 2019 or later (LocalDB or full installation)
+- Web Browser: Google Chrome, Edge, or any modern browser
+
+
 
 ### Dependencies:
 -Entity Framework 6
