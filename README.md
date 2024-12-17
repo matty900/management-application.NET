@@ -20,8 +20,10 @@ The web application Management, built using ASP.NET framework.  It is suitable f
 - AutoMapper 12.x
 
 ### User Roles:
+- Admin: Can load the data and roles first
 - Executive: Can create actors and manage details.
 - Coordinator: Can associate shows with actors.
+- Clerk: Can add episode to each show and manage details.
 
 ### Installation and Setup:
 -Clone the repository:
