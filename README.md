@@ -25,7 +25,7 @@ The web application Management, built using ASP.NET framework.  It is suitable f
 
 ### Installation and Setup:
 -Clone the repository:
-git clone https://github.com/your-username/actor-management-system.git
+git clone https://github.com/your-username/actor-management-system.git](https://github.com/matty900/management-application.NET.git
 - Open the solution file (MZ2247A6.sln) in Visual Studio.
 - use the following command to update packages: Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
 - Configure the database connection string in Web.config to match your SQL Server instance.\
