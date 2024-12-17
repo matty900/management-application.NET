@@ -5,19 +5,18 @@ The web application Management, built using ASP.NET framework.  It is suitable f
 
 ## Requirements
 Prerequisites
-Software Requirements:
+### Software Requirements:
+-.NET Framework: Version 4.8 or higher
+-Visual Studio: 2022 or later with the following workloads:
+-ASP.NET and web development
+-.NET Framework development
+-SQL Server: 2019 or later (LocalDB or full installation)
+-Web Browser: Google Chrome, Edge, or any modern browser
 
-.NET Framework: Version 4.8 or higher
-Visual Studio: 2022 or later with the following workloads:
-ASP.NET and web development
-.NET Framework development
-SQL Server: 2019 or later (LocalDB or full installation)
-Web Browser: Google Chrome, Edge, or any modern browser
-Dependencies:
-
-Entity Framework 6
-AutoMapper 12.x
-User Roles:
+### Dependencies:
+-Entity Framework 6
+-AutoMapper 12.x
+-User Roles:
 
 Executive: Can create actors and manage details.
 Coordinator: Can associate shows with actors.
